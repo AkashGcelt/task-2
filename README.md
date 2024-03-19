@@ -26,7 +26,7 @@ Task Description: Create a webpage for displaying the team members of the compan
 
 ## Learnings:
 
-- Enhanced proficiency in HTML, CSS, and JavaScript.
+- Enhanced proficiency in HTML & CSS.
 - Improved understanding of responsive design principles.
 - Learned effective use of semantic HTML elements for better accessibility and SEO.
 
