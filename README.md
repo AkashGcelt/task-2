@@ -5,7 +5,7 @@ Task Description:
 
 ## Steps Taken:
 
-Initial Planning: I started by outlining the essential features and sections required for the university website, including the homepage, about section, course offerings, campus information, and contact details.
+- Initial Planning: I started by outlining the essential features and sections required for the university website, including the homepage, about section, course offerings, campus information, and contact details.
 Design Concept: I conceptualized a clean and modern design aesthetic, incorporating appropriate colors, typography, and imagery to reflect the professionalism of the institution.
 HTML Structure: I structured the HTML document according to the planned sections, ensuring semantic markup for accessibility and SEO purposes.
 CSS Styling: Utilizing CSS, I styled the website elements, focusing on responsiveness, layout consistency, and visual appeal across different devices and screen sizes.
