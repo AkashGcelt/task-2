@@ -1,9 +1,9 @@
-Task Title: University Website Design
+# Task Title: University Website Design
 
 Task Description:
 - The task involved designing a website for a fictional university, focusing on user-friendly navigation, responsive design, and aesthetic appeal.
 
-Steps Taken:
+## Steps Taken:
 
 Initial Planning: I started by outlining the essential features and sections required for the university website, including the homepage, about section, course offerings, campus information, and contact details.
 Design Concept: I conceptualized a clean and modern design aesthetic, incorporating appropriate colors, typography, and imagery to reflect the professionalism of the institution.
