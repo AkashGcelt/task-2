@@ -14,7 +14,7 @@ Testing and Debugging: I thoroughly tested the website across various browsers a
 Final Touches: I added favicon, optimized images, and ensured proper meta tags for improved performance and SEO.
 Challenges Faced:
 
-Responsive Design: 
+## Responsive Design: 
 
 Ensuring consistent layout and functionality across different devices presented a significant challenge, especially regarding the navigation menu on smaller screens.
 Cross-Browser Compatibility: Ensuring compatibility with multiple browsers required extensive testing and adjustments to accommodate differences in rendering.
@@ -22,7 +22,7 @@ Optimization: Balancing visual aesthetics with performance optimization, such as
 Faith Situation Implemented:
 Despite facing challenges, I remained committed to delivering a high-quality website that meets the project requirements and exceeds user expectations. I maintained faith in my abilities and persisted through iterative improvements to achieve the desired outcome.
 
-Learning and Project Updates:
+## Learning and Project Updates:
 
 Responsive Design Principles: I gained a deeper understanding of responsive design principles and techniques for creating mobile-friendly websites.
 Project Management: Through this project, I improved my project management skills, including task prioritization, time management, and iterative development processes.
